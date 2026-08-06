@@ -2,7 +2,9 @@
 
 **`Engenharia • Computação • Eletrônica`**
 
-###
+Graduando de Engenharia Elétrica com Enfâse em Sistemas e Computação na Universidade Estadual do Rio de Janeiro - UERJ
+Membro da UERJBotz
+
 
 <p align="left">
   <img 
